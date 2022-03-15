@@ -6,7 +6,7 @@ public class TestCalc {
 		
 		Calculator c= new Calculator();
 		System.out.println(c.add(12, 13));
-        
+        System.out.println("I have changed the main method");
 	}
 
 }
